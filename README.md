@@ -1,10 +1,9 @@
-# the-OGs
-### Pomodoro To-Do List Application  
+# Ajay Chauhan SYMSDS2024004
+### Pomodoro Productivity Manager Application  
 
-#### Video Demo: [https://youtu.be/xvFMNkp44yM]  
 
 #### Description:  
-This project focuses has resulted in building a productivity web application, which integrates task management and the Pomodoro Technique, and is hosted on Python Flask Framework. Users can create and manage tasks, which can help them focus through the Pomodoro system of time management. Scheduler works by allowing 25 minutes of focused work, followed by a 5-minute respite.  
+This project is a Flask-based productivity application that integrates task management with the Pomodoro Technique. Users can create tasks, assign priorities, and track productivity using Pomodoro sessions. 
 
  ## Project Overview  
  
