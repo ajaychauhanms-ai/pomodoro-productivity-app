@@ -1,9 +1,9 @@
 # Ajay Chauhan SYMSDS2024004
-### Pomodoro Productivity Manager Application  
+### Pomodoro Productivity Manager – Task Management Web Application 
 
 
 #### Description:  
-This project is a Flask-based productivity application that integrates task management with the Pomodoro Technique. Users can create tasks, assign priorities, and track productivity using Pomodoro sessions. 
+This project is a web-based productivity application developed using the Flask framework. It integrates task management with the Pomodoro Technique to help users organize tasks, manage priorities, and improve focus during work sessions.
 
  ## Project Overview  
  
