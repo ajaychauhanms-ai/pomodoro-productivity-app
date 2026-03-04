@@ -7,7 +7,7 @@ This project is a Flask-based productivity application that integrates task mana
 
  ## Project Overview  
  
-The Pomodoro To-Do List application assists users in organizing their tasks by providing with various priority levels by helping to track progress through the Pomodoro Technique. The application adopts a clean, user-friendly design that features an interactive timer display of tasks. Users can gain insights about their productivity as umbers of completed Pomodoro sessions are tracked per individual tasks.
+The Pomodoro Productivity Manager application assists users in organizing their tasks by providing with various priority levels by helping to track progress through the Pomodoro Technique. The application adopts a clean, user-friendly design that features an interactive timer display of tasks. Users can gain insights about their productivity as umbers of completed Pomodoro sessions are tracked per individual tasks.
 
 ## Files and Functionality
 
@@ -238,7 +238,7 @@ python project.py
 
 ## Application Overview  
 
-The Flask web framework is combined with frontend technologies in this Pomodoro To-Do List application to showcase ingenuity. The project aims to provide productivity with the basic web development principles such as route management, data storage, server-client interaction, and GUI design. The modular design of the application along with its extensive testing guarantees dependability while enabling refinements and enhancements.
+The Flask web framework is combined with frontend technologies in this Pomodoro Productivity Manager application to showcase ingenuity. The project aims to provide productivity with the basic web development principles such as route management, data storage, server-client interaction, and GUI design. The modular design of the application along with its extensive testing guarantees dependability while enabling refinements and enhancements.
 
 
 
